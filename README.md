@@ -1,26 +1,26 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3374354.svg)](https://doi.org/10.5281/zenodo.3374354)
-![CI](https://github.com/IEA-Wind-Task-32/white-paper-Task32-RnD-roadmap/workflows/CI/badge.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3447756.svg)](https://doi.org/10.5281/zenodo.3447756)
+![CI](https://github.com/IEA-Wind-Task-32/white-paper-Task32-lidar-digitalisation/workflows/CI/badge.svg)
 
-# IEA Wind Task32 Collaborative R&D Roadmap
-IEA Wind Task 32 coordinates a range of research and development activities for wind lidar for wind energy applications. In order to help Task members and others keep an overview of what's happening in the Task, we have created a visual road map showing these activities.
+# Increasing the impact of wind lidar through digitalisation
+This white paper provides an overview of how digitalisation could help the wind energy industry benefit from wind lidar, and what needs to be done to make this vision a reality.
 
 ![](./3604290-2by1.png)
 
 To find out more about specific activities, see the Task 32 website at https://community.ieawind.org/task32/home.
 
 This repository includes:
- - A PDF of the roadmap: "IEA_Wind_Task_32__Collaborative_RD_Roadmap.pdf".
+ - A PDF of the white paper: "main.pdf".
  - A banner image for use in the repository or elsewhere
  - All of the files required to produce the roadmap using the LaTeX document preparation system.
 
 # Versions
-Please note that this document will be updated regularly. Releases (i.e., stable versions) can be found at https://github.com/IEA-Wind-Task-32/white-paper-Task32-RnD-roadmap/releases and at https://doi.org/10.5281/zenodo.3374354. 
+Please note that this document will be updated regularly. Releases (i.e., stable versions) can be found at https://github.com/IEA-Wind-Task-32/white-paper-Task32-lidar-digitalisation/releases and at https://doi.org/10.5281/zenodo.3447756. 
 
-# How to provide feedback to the roadmap
+# How to provide feedback
 There are two ways to provide feedback to this document.
 
 ## Through Github
-You can provide feedback to RP 18 by [raising an issue](https://github.com/IEA-Wind-Task-32/white-paper-Task32-RnD-roadmap/issues). Before you raise an issue, please take a few minutes to check if there is a similar one in the list already.
+You can provide feedback by [raising an issue](https://github.com/IEA-Wind-Task-32/white-paper-Task32-lidar-digitalisation/issues). Before you raise an issue, please take a few minutes to check if there is a similar one in the list already.
 
 **You will have to be logged in to Github to provide feedback**. This means that your feedback will be associated with your username, which may make it possible to identify you. We prefer to have feedback associated with a name because RP18 is a community document.
 
