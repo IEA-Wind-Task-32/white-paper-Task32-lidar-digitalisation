@@ -4,7 +4,7 @@
 # Increasing the impact of wind lidar through digitalisation
 This white paper provides an overview of how digitalisation could help the wind energy industry benefit from wind lidar, and what needs to be done to make this vision a reality.
 
-![](./3604290-2by1.png)
+![](./3447756_banner.jpg)
 
 To find out more about specific activities, see the Task 32 website at https://community.ieawind.org/task32/home.
 
